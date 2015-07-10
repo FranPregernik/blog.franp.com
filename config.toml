@@ -1,0 +1,57 @@
+baseurl = "http://blog.franp.com/"
+languageCode = "en-us"
+title = "Fran Pregernik"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+canonifyurls = true
+
+[author]
+name = "Fran Pregernik"
+# email will use for gravatar
+email = "fran.pregernik@gmail.com"
+
+[indexes]
+category = "categories"
+
+[taxonomies]
+category = "categories"
+
+[params]
+# site description, will show under navigation
+description = "Developer, techie, enthusiast, father, husband"
+
+# RSS / Email (optional) subscription links (change if using something like Feedburner)
+subscribe_rss = "/index.xml"
+subscribe_email = ""
+
+# social links
+facebook_user = ""
+googleplus_user = "+FranPregernik"
+twitter_user = "fpregernik"
+github_user = "FranPregernik"
+coderwall_user = ""
+stackoverflow_user = "fran-pregernik"
+stackoverflow_user_id = "295732"
+linkedin_user = "franpregernik"
+pinterest_user = ""
+delicious_user = ""
+pinboard_user = ""
+quora_user = ""
+instagram_user = ""
+behance_user = ""
+douban_user = ""
+
+# share links
+facebook_like = true
+twitter_tweet_button = true
+google_plus_one = "true"
+addthis_profile_id = ""
+
+# Disqus Comments
+disqus_short_name = ""
+disqus_show_comment_count = false
+
+# google analytics
+google_analytics_tracking_id = ""
